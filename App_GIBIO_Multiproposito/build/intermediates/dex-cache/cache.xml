@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\aguus\OneDrive\Documentos\FACU\Android GIBIO\Graficador_Android_GIBIO_Version 1.1\Graficador_Bluetooth_GitHub-App_Android_GIBIO_Multiproposito\app\libs\GraphView-3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e187192858ff7a5ff7864d6f6a754427e6cb3a87">
+        <dex dex="C:\Users\aguus\OneDrive\Documentos\FACU\Android GIBIO\Graficador_Android_GIBIO_Version 1.1\Graficador_Bluetooth_GitHub-App_Android_GIBIO_Multiproposito\app\build\intermediates\pre-dexed\debug\GraphView-3.0_3945462bc4c519035e8f672039dac837ae338590.jar" />
+    </item>
+
+</items>
